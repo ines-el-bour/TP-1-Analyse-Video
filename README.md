@@ -4,7 +4,9 @@ The goal is to segment and detect moving objects in a video captured with a stat
 
 The analyzed video contains:
 -A hand gesture (peace sign)
+
 -Opening a water bottle
+
 -Drinking action
 
 The project explores several spatial and temporal segmentation methods, as well as OpenCV’s built-in background subtraction techniques.
